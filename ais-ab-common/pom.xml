@@ -60,6 +60,21 @@
             <version>2.4</version>
         </dependency>
 
-    </dependencies>
+        <dependency>
+        	<groupId>dk.dma.enav</groupId>
+        	<artifactId>enav-util</artifactId>
+        	<version>0.6</version>
+        </dependency>
+        <dependency>
+        	<groupId>dk.dma.enav</groupId>
+        	<artifactId>enav-model</artifactId>
+        	<version>0.6</version>
+        </dependency>
+        <dependency>
+        	<groupId>dk.dma.commons</groupId>
+        	<artifactId>dma-commons-util</artifactId>
+        	<version>0.5</version>
+        </dependency>
+	</dependencies>
 
 </project>
